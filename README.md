@@ -4,7 +4,7 @@
 This customer churn dataset contains information about customers of a telecommunications company. It includes various demographic, service-related, and account-related features of the customers
 
 
-![gif](https://github.com/ak-rana/Teleco_Churn-EDA-Modelling/assets/90442901/52cb25fc-67fe-43e6-b074-f184ba3adfa3)
+![gif](https://miro.medium.com/v2/resize:fit:1200/1*6-4Odk6CkuhOkAfH-uwJqw.jpeg)
 
 
 
